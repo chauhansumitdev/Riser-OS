@@ -1,7 +1,7 @@
-# riseros_
 ![status: 200](https://img.shields.io/badge/status-active-green)
 ![status: 200](https://img.shields.io/badge/dev_environment-linux-blue)
 [![docs](https://img.shields.io/badge/docs-🔗-white)](https://chauhansumitdev.github.io/riser-OS/)
+![riseros](https://github.com/user-attachments/assets/d6d7fc5e-5f21-42c8-877d-7f195c4e1255)
 
 ## timeline_
 <table>
